@@ -13,7 +13,6 @@ Gem::Specification.new do |spec|
   spec.homepage      = "https://sk8z.000webhostapp.com"
   spec.license       = "MIT"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/Zicrou/sk8z_view_tool.git"
