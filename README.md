@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install sk8z_view_tool
 
 ## Usage
-```Sk8zViewTool::Renderer.copyright 'Zicrou', "All rights reserved"
-```
+
+ Sk8zViewTool::Renderer.copyright 'Zicrou', "All rights reserved"
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
