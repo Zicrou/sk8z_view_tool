@@ -6,7 +6,7 @@ Wonderfull
 
 Add this line to your application's Gemfile:
 
-```ruby
+``` ruby
 gem 'sk8z_view_tool'
 ```
 
@@ -19,8 +19,7 @@ Or install it yourself as:
     $ gem install sk8z_view_tool
 
 ## Usage
-```
-Sk8zViewTool::Renderer.copyright 'Zicrou', "All rights reserved"
+```Sk8zViewTool::Renderer.copyright 'Zicrou', "All rights reserved"
 ```
 ## Development
 
